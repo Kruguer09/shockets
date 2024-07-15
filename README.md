@@ -1,0 +1,3 @@
+Aplicaciones sencillas para el uso de shockets desarrolladas con netbeans.
+Lenguaje Java.
+Aplicaciones sencilla de consola para iniciarse en el manejo de shockets tcp, udp,...
